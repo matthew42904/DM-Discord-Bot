@@ -1,0 +1,21 @@
+DM Bot;
+
+!!dm @[NAME]
+
+-Creates private voice and text chat
+
+-Asks recipenet if they want to be moved
+
+-2.5 minute cooldown if request was denied
+
+-If in DM, cooldown doesnt exist
+
+-Once all particients leave, the chats are deleted
+
+
+
+____________________________________________________
+
+Wants;
+
+!!dm max[Max Amount of People You Want Allowed In The Dm] @[NAME]
